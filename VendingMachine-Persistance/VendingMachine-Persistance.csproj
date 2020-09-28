@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>VendingMachine_Persistance</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CsvHelper" Version="15.0.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\VendingMachine-Application\VendingMachine-Application.csproj" />
+    <ProjectReference Include="..\VendingMachine-Domain\VendingMachine-Domain.csproj" />
+  </ItemGroup>
+
+</Project>

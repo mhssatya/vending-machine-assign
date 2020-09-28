@@ -1,0 +1,24 @@
+C:\Users\vmerce\source\repos\VendingMachine-Domain\bin\Debug\netstandard2.0\VendingMachine-Domain.deps.json
+C:\Users\vmerce\source\repos\VendingMachine-Domain\bin\Debug\netstandard2.0\VendingMachine-Domain.dll
+C:\Users\vmerce\source\repos\VendingMachine-Domain\bin\Debug\netstandard2.0\VendingMachine-Domain.pdb
+C:\Users\vmerce\source\repos\VendingMachine-Domain\obj\Debug\netstandard2.0\VendingMachine-Domain.AssemblyInfoInputs.cache
+C:\Users\vmerce\source\repos\VendingMachine-Domain\obj\Debug\netstandard2.0\VendingMachine-Domain.AssemblyInfo.cs
+C:\Users\vmerce\source\repos\VendingMachine-Domain\obj\Debug\netstandard2.0\VendingMachine-Domain.dll
+C:\Users\vmerce\source\repos\VendingMachine-Domain\obj\Debug\netstandard2.0\VendingMachine-Domain.pdb
+C:\Users\vladi\Desktop\repos\VendingMachine-Domain\bin\Debug\netstandard2.0\VendingMachine-Domain.deps.json
+C:\Users\vladi\Desktop\repos\VendingMachine-Domain\bin\Debug\netstandard2.0\VendingMachine-Domain.dll
+C:\Users\vladi\Desktop\repos\VendingMachine-Domain\bin\Debug\netstandard2.0\VendingMachine-Domain.pdb
+C:\Users\vladi\Desktop\repos\VendingMachine-Domain\obj\Debug\netstandard2.0\VendingMachine-Domain.AssemblyInfo.cs
+C:\Users\vladi\Desktop\repos\VendingMachine-Domain\obj\Debug\netstandard2.0\VendingMachine-Domain.dll
+C:\Users\vladi\Desktop\repos\VendingMachine-Domain\obj\Debug\netstandard2.0\VendingMachine-Domain.pdb
+C:\Users\vladi\Desktop\repos\VendingMachine-Domain\obj\Debug\netstandard2.0\VendingMachine-Domain.AssemblyInfoInputs.cache
+C:\Users\vladi\Desktop\repos\VendingMachine-Domain\obj\Debug\netstandard2.0\VendingMachine-Domain.csproj.CoreCompileInputs.cache
+C:\Users\mhssa\OneDrive\Documents\Code\VM Assignment\Vladmir3\VendingMachine-Domain\bin\Debug\netstandard2.0\VendingMachine-Domain.deps.json
+C:\Users\mhssa\OneDrive\Documents\Code\VM Assignment\Vladmir3\VendingMachine-Domain\bin\Debug\netstandard2.0\VendingMachine-Domain.dll
+C:\Users\mhssa\OneDrive\Documents\Code\VM Assignment\Vladmir3\VendingMachine-Domain\bin\Debug\netstandard2.0\VendingMachine-Domain.pdb
+C:\Users\mhssa\OneDrive\Documents\Code\VM Assignment\Vladmir3\VendingMachine-Domain\obj\Debug\netstandard2.0\VendingMachine-Domain.csprojAssemblyReference.cache
+C:\Users\mhssa\OneDrive\Documents\Code\VM Assignment\Vladmir3\VendingMachine-Domain\obj\Debug\netstandard2.0\VendingMachine-Domain.AssemblyInfoInputs.cache
+C:\Users\mhssa\OneDrive\Documents\Code\VM Assignment\Vladmir3\VendingMachine-Domain\obj\Debug\netstandard2.0\VendingMachine-Domain.AssemblyInfo.cs
+C:\Users\mhssa\OneDrive\Documents\Code\VM Assignment\Vladmir3\VendingMachine-Domain\obj\Debug\netstandard2.0\VendingMachine-Domain.csproj.CoreCompileInputs.cache
+C:\Users\mhssa\OneDrive\Documents\Code\VM Assignment\Vladmir3\VendingMachine-Domain\obj\Debug\netstandard2.0\VendingMachine-Domain.dll
+C:\Users\mhssa\OneDrive\Documents\Code\VM Assignment\Vladmir3\VendingMachine-Domain\obj\Debug\netstandard2.0\VendingMachine-Domain.pdb

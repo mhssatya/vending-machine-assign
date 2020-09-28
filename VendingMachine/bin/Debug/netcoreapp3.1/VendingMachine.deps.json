@@ -1,0 +1,364 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "VendingMachine/1.0.0": {
+        "dependencies": {
+          "Autofac": "5.2.0",
+          "Microsoft.Extensions.Configuration": "3.1.8",
+          "Microsoft.Extensions.Configuration.Abstractions": "3.1.8",
+          "Microsoft.Extensions.Configuration.Binder": "3.1.7",
+          "Microsoft.Extensions.Configuration.CommandLine": "3.1.7",
+          "Microsoft.Extensions.Configuration.EnvironmentVariables": "3.1.7",
+          "Microsoft.Extensions.Configuration.FileExtensions": "3.1.7",
+          "Microsoft.Extensions.Configuration.Json": "3.1.7",
+          "Microsoft.Extensions.DependencyInjection": "3.1.8",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "3.1.8",
+          "VendingMachine-Application": "1.0.0",
+          "VendingMachine-Persistance": "1.0.0"
+        },
+        "runtime": {
+          "VendingMachine.dll": {}
+        }
+      },
+      "Autofac/5.2.0": {
+        "runtime": {
+          "lib/netstandard2.1/Autofac.dll": {
+            "assemblyVersion": "5.2.0.0",
+            "fileVersion": "5.2.0.0"
+          }
+        }
+      },
+      "CsvHelper/15.0.5": {
+        "dependencies": {
+          "Microsoft.CSharp": "4.5.0"
+        },
+        "runtime": {
+          "lib/netstandard2.1/CsvHelper.dll": {
+            "assemblyVersion": "15.0.0.0",
+            "fileVersion": "15.0.5.0"
+          }
+        }
+      },
+      "Microsoft.CSharp/4.5.0": {},
+      "Microsoft.Extensions.Configuration/3.1.8": {
+        "dependencies": {
+          "Microsoft.Extensions.Configuration.Abstractions": "3.1.8"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Microsoft.Extensions.Configuration.dll": {
+            "assemblyVersion": "3.1.8.0",
+            "fileVersion": "3.100.820.42004"
+          }
+        }
+      },
+      "Microsoft.Extensions.Configuration.Abstractions/3.1.8": {
+        "dependencies": {
+          "Microsoft.Extensions.Primitives": "3.1.8"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll": {
+            "assemblyVersion": "3.1.8.0",
+            "fileVersion": "3.100.820.42004"
+          }
+        }
+      },
+      "Microsoft.Extensions.Configuration.Binder/3.1.7": {
+        "dependencies": {
+          "Microsoft.Extensions.Configuration": "3.1.8"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll": {
+            "assemblyVersion": "3.1.7.0",
+            "fileVersion": "3.100.720.37108"
+          }
+        }
+      },
+      "Microsoft.Extensions.Configuration.CommandLine/3.1.7": {
+        "dependencies": {
+          "Microsoft.Extensions.Configuration": "3.1.8"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Microsoft.Extensions.Configuration.CommandLine.dll": {
+            "assemblyVersion": "3.1.7.0",
+            "fileVersion": "3.100.720.37108"
+          }
+        }
+      },
+      "Microsoft.Extensions.Configuration.EnvironmentVariables/3.1.7": {
+        "dependencies": {
+          "Microsoft.Extensions.Configuration": "3.1.8"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Microsoft.Extensions.Configuration.EnvironmentVariables.dll": {
+            "assemblyVersion": "3.1.7.0",
+            "fileVersion": "3.100.720.37108"
+          }
+        }
+      },
+      "Microsoft.Extensions.Configuration.FileExtensions/3.1.7": {
+        "dependencies": {
+          "Microsoft.Extensions.Configuration": "3.1.8",
+          "Microsoft.Extensions.FileProviders.Physical": "3.1.7"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Microsoft.Extensions.Configuration.FileExtensions.dll": {
+            "assemblyVersion": "3.1.7.0",
+            "fileVersion": "3.100.720.37108"
+          }
+        }
+      },
+      "Microsoft.Extensions.Configuration.Json/3.1.7": {
+        "dependencies": {
+          "Microsoft.Extensions.Configuration": "3.1.8",
+          "Microsoft.Extensions.Configuration.FileExtensions": "3.1.7"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Microsoft.Extensions.Configuration.Json.dll": {
+            "assemblyVersion": "3.1.7.0",
+            "fileVersion": "3.100.720.37108"
+          }
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection/3.1.8": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "3.1.8"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll": {
+            "assemblyVersion": "3.1.8.0",
+            "fileVersion": "3.100.820.42004"
+          }
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection.Abstractions/3.1.8": {
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "assemblyVersion": "3.1.8.0",
+            "fileVersion": "3.100.820.42004"
+          }
+        }
+      },
+      "Microsoft.Extensions.FileProviders.Abstractions/3.1.7": {
+        "dependencies": {
+          "Microsoft.Extensions.Primitives": "3.1.8"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Microsoft.Extensions.FileProviders.Abstractions.dll": {
+            "assemblyVersion": "3.1.7.0",
+            "fileVersion": "3.100.720.37108"
+          }
+        }
+      },
+      "Microsoft.Extensions.FileProviders.Physical/3.1.7": {
+        "dependencies": {
+          "Microsoft.Extensions.FileProviders.Abstractions": "3.1.7",
+          "Microsoft.Extensions.FileSystemGlobbing": "3.1.7"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Microsoft.Extensions.FileProviders.Physical.dll": {
+            "assemblyVersion": "3.1.7.0",
+            "fileVersion": "3.100.720.37108"
+          }
+        }
+      },
+      "Microsoft.Extensions.FileSystemGlobbing/3.1.7": {
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.FileSystemGlobbing.dll": {
+            "assemblyVersion": "3.1.7.0",
+            "fileVersion": "3.100.720.37108"
+          }
+        }
+      },
+      "Microsoft.Extensions.Primitives/3.1.8": {
+        "runtime": {
+          "lib/netcoreapp3.1/Microsoft.Extensions.Primitives.dll": {
+            "assemblyVersion": "3.1.8.0",
+            "fileVersion": "3.100.820.42004"
+          }
+        }
+      },
+      "Serilog/2.10.0": {
+        "runtime": {
+          "lib/netstandard2.1/Serilog.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.10.0.0"
+          }
+        }
+      },
+      "VendingMachine-Application/1.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.Configuration": "3.1.8",
+          "VendingMachine-Domain": "1.0.0"
+        },
+        "runtime": {
+          "VendingMachine-Application.dll": {}
+        }
+      },
+      "VendingMachine-Domain/1.0.0": {
+        "dependencies": {
+          "CsvHelper": "15.0.5",
+          "Serilog": "2.10.0"
+        },
+        "runtime": {
+          "VendingMachine-Domain.dll": {}
+        }
+      },
+      "VendingMachine-Persistance/1.0.0": {
+        "dependencies": {
+          "CsvHelper": "15.0.5",
+          "VendingMachine-Application": "1.0.0",
+          "VendingMachine-Domain": "1.0.0"
+        },
+        "runtime": {
+          "VendingMachine-Persistance.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VendingMachine/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Autofac/5.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-V8dBH0dsv75uDzl7Sw+HkhKDPUw2eXnlMjcSVMH+tLo2s67MpTKGyDj1pDcpR+IF2u4YRs0s3/x7R88YJzIWvg==",
+      "path": "autofac/5.2.0",
+      "hashPath": "autofac.5.2.0.nupkg.sha512"
+    },
+    "CsvHelper/15.0.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-HPoE5nASoFXqoXKSi5yEBam7TzDrtC8WESA4xq53JtPKV8Mm+IKRuN+FJyMoJg1Whv/NG4JiCUs9yUcaSY/ziQ==",
+      "path": "csvhelper/15.0.5",
+      "hashPath": "csvhelper.15.0.5.nupkg.sha512"
+    },
+    "Microsoft.CSharp/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kaj6Wb4qoMuH3HySFJhxwQfe8R/sJsNJnANrvv8WdFPMoNbKY5htfNscv+LHCu5ipz+49m2e+WQXpLXr9XYemQ==",
+      "path": "microsoft.csharp/4.5.0",
+      "hashPath": "microsoft.csharp.4.5.0.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Configuration/3.1.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-xWvtu/ra8xDOy62ZXzQj1ElmmH3GpZBSKvw4LbfNXKCy+PaziS5Uh0gQ47D4H4w3u+PJfhNWCCGCp9ORNEzkRw==",
+      "path": "microsoft.extensions.configuration/3.1.8",
+      "hashPath": "microsoft.extensions.configuration.3.1.8.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Configuration.Abstractions/3.1.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0qbNyxGpuNP/fuQ3FLHesm1Vn/83qYcAgVsi1UQCQN1peY4YH1uiizOh4xbYkQyxiVMD/c/zhiYYv94G0DXSSA==",
+      "path": "microsoft.extensions.configuration.abstractions/3.1.8",
+      "hashPath": "microsoft.extensions.configuration.abstractions.3.1.8.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Configuration.Binder/3.1.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-FYQ64i7DwYO6XDdOFi+VkoRDDzel570I+X/vTYt6mVJWNj1SAstXwZ71P5d6P2Cei+cT950NiScOwj4F8EUeTA==",
+      "path": "microsoft.extensions.configuration.binder/3.1.7",
+      "hashPath": "microsoft.extensions.configuration.binder.3.1.7.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Configuration.CommandLine/3.1.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-UsoucmeJwP6U3jQvo6Lt9aPHNN+VmxpBrY8ExBy+/Ec2DM2tgUtLFawlOAir79BPjKTXY89aoew6bi5icabN7g==",
+      "path": "microsoft.extensions.configuration.commandline/3.1.7",
+      "hashPath": "microsoft.extensions.configuration.commandline.3.1.7.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Configuration.EnvironmentVariables/3.1.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-oh54cY14iwmfUjZu6VYsUBBISDtq3xXShCSbsLy+8qBMk+LLNb3PPXgdhKRdV+OSmswbioyJrJD7ROwb2V1NDw==",
+      "path": "microsoft.extensions.configuration.environmentvariables/3.1.7",
+      "hashPath": "microsoft.extensions.configuration.environmentvariables.3.1.7.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Configuration.FileExtensions/3.1.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-MyT8ALBcE5vZ/cbkBhoo8ZFqj6AAGUrPXQlFdLAkxS11WO0vVxtJwVQVIbIM79zWI94ZkMq8Mw4E9MvuspDj9w==",
+      "path": "microsoft.extensions.configuration.fileextensions/3.1.7",
+      "hashPath": "microsoft.extensions.configuration.fileextensions.3.1.7.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Configuration.Json/3.1.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-BGaWgKBQPXeRlv8g6ZKTd6clFsd7p0GBwHBIU0zxI4iy4S6xjGzpWr6LOAbzEqP5Fo2QBgL8Niq2lZONcmGLZQ==",
+      "path": "microsoft.extensions.configuration.json/3.1.7",
+      "hashPath": "microsoft.extensions.configuration.json.3.1.7.nupkg.sha512"
+    },
+    "Microsoft.Extensions.DependencyInjection/3.1.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-tUpYcVxFqwh8wVD8O+6A8gJnVtl6L4N1Vd9bLJgQSJ0gjBTUQ/eKwJn0LglkkaDU7GAxODDv4eexgZn3QSE0NQ==",
+      "path": "microsoft.extensions.dependencyinjection/3.1.8",
+      "hashPath": "microsoft.extensions.dependencyinjection.3.1.8.nupkg.sha512"
+    },
+    "Microsoft.Extensions.DependencyInjection.Abstractions/3.1.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-YP0kEBkSLTVl3znqZEux+xyJpz5iVNwFZf0OPS7nupdKbojSlO7Fa+JuQjLYpWfpAshaMcznu27tjWzfXRJnOA==",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/3.1.8",
+      "hashPath": "microsoft.extensions.dependencyinjection.abstractions.3.1.8.nupkg.sha512"
+    },
+    "Microsoft.Extensions.FileProviders.Abstractions/3.1.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-nasMSdDlIIBcKgGVHoZdFSmfUY1bI0zkvfZTsWLlEFcMCVD0fzcgsVlkeZTzPLJV0w7Uwq3okOgMWpU1nFEhxg==",
+      "path": "microsoft.extensions.fileproviders.abstractions/3.1.7",
+      "hashPath": "microsoft.extensions.fileproviders.abstractions.3.1.7.nupkg.sha512"
+    },
+    "Microsoft.Extensions.FileProviders.Physical/3.1.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-mo21yJfL3oGCjC/rcwdbs2z4KGL9R5BvTfwYR31ueyg3l77i9oPCryMtlSZ4TvpI5duENNEpZyzcpaycqERdZQ==",
+      "path": "microsoft.extensions.fileproviders.physical/3.1.7",
+      "hashPath": "microsoft.extensions.fileproviders.physical.3.1.7.nupkg.sha512"
+    },
+    "Microsoft.Extensions.FileSystemGlobbing/3.1.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Cenv9mtZdSZ9u09rGYl3ejMB19gIOdRryXk/rYEzQsyrBTTuNzmRHwtHdy640P08DL1Rdu+0z/s2lpvFbZV8Hw==",
+      "path": "microsoft.extensions.filesystemglobbing/3.1.7",
+      "hashPath": "microsoft.extensions.filesystemglobbing.3.1.7.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Primitives/3.1.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-XcIoXQhT0kwnEhOKv/LmpWR6yF6QWmBTy9Fcsz4aHuCOgTJ7Zd23ELtUA4BfwlYoFlSedavS+vURz9tNekd44g==",
+      "path": "microsoft.extensions.primitives/3.1.8",
+      "hashPath": "microsoft.extensions.primitives.3.1.8.nupkg.sha512"
+    },
+    "Serilog/2.10.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+QX0hmf37a0/OZLxM3wL7V6/ADvC1XihXN4Kq/p6d8lCPfgkRdiuhbWlMaFjR9Av0dy5F0+MBeDmDdRZN/YwQA==",
+      "path": "serilog/2.10.0",
+      "hashPath": "serilog.2.10.0.nupkg.sha512"
+    },
+    "VendingMachine-Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VendingMachine-Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VendingMachine-Persistance/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

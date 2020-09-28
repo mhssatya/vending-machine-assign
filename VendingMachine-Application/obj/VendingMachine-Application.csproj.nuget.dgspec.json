@@ -1,0 +1,136 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\mhssa\\OneDrive\\Documents\\Code\\VM Assignment\\Vladmir3\\VendingMachine-Application\\VendingMachine-Application.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\mhssa\\OneDrive\\Documents\\Code\\VM Assignment\\Vladmir3\\VendingMachine-Application\\VendingMachine-Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mhssa\\OneDrive\\Documents\\Code\\VM Assignment\\Vladmir3\\VendingMachine-Application\\VendingMachine-Application.csproj",
+        "projectName": "VendingMachine-Application",
+        "projectPath": "C:\\Users\\mhssa\\OneDrive\\Documents\\Code\\VM Assignment\\Vladmir3\\VendingMachine-Application\\VendingMachine-Application.csproj",
+        "packagesPath": "C:\\Users\\mhssa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mhssa\\OneDrive\\Documents\\Code\\VM Assignment\\Vladmir3\\VendingMachine-Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mhssa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/nuget": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\Users\\mhssa\\OneDrive\\Documents\\Code\\VM Assignment\\Vladmir3\\VendingMachine-Domain\\VendingMachine-Domain.csproj": {
+                "projectPath": "C:\\Users\\mhssa\\OneDrive\\Documents\\Code\\VM Assignment\\Vladmir3\\VendingMachine-Domain\\VendingMachine-Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mhssa\\OneDrive\\Documents\\Code\\VM Assignment\\Vladmir3\\VendingMachine-Domain\\VendingMachine-Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mhssa\\OneDrive\\Documents\\Code\\VM Assignment\\Vladmir3\\VendingMachine-Domain\\VendingMachine-Domain.csproj",
+        "projectName": "VendingMachine-Domain",
+        "projectPath": "C:\\Users\\mhssa\\OneDrive\\Documents\\Code\\VM Assignment\\Vladmir3\\VendingMachine-Domain\\VendingMachine-Domain.csproj",
+        "packagesPath": "C:\\Users\\mhssa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mhssa\\OneDrive\\Documents\\Code\\VM Assignment\\Vladmir3\\VendingMachine-Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mhssa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/nuget": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "CsvHelper": {
+              "target": "Package",
+              "version": "[15.0.5, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[2.10.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

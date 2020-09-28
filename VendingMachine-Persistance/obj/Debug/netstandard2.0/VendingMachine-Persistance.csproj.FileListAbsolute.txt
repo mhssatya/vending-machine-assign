@@ -1,0 +1,28 @@
+C:\Users\vladi\Desktop\repos\VendingMachine-Persistance\bin\Debug\netstandard2.0\VendingMachine-Persistance.deps.json
+C:\Users\vladi\Desktop\repos\VendingMachine-Persistance\obj\Debug\netstandard2.0\VendingMachine-Persistance.AssemblyInfo.cs
+C:\Users\vladi\Desktop\repos\VendingMachine-Persistance\bin\Debug\netstandard2.0\VendingMachine-Persistance.dll
+C:\Users\vladi\Desktop\repos\VendingMachine-Persistance\bin\Debug\netstandard2.0\VendingMachine-Persistance.pdb
+C:\Users\vladi\Desktop\repos\VendingMachine-Persistance\bin\Debug\netstandard2.0\VendingMachine-Application.dll
+C:\Users\vladi\Desktop\repos\VendingMachine-Persistance\bin\Debug\netstandard2.0\VendingMachine-Domain.dll
+C:\Users\vladi\Desktop\repos\VendingMachine-Persistance\bin\Debug\netstandard2.0\VendingMachine-Application.pdb
+C:\Users\vladi\Desktop\repos\VendingMachine-Persistance\bin\Debug\netstandard2.0\VendingMachine-Domain.pdb
+C:\Users\vladi\Desktop\repos\VendingMachine-Persistance\obj\Debug\netstandard2.0\VendingMachine-Persistance.csprojAssemblyReference.cache
+C:\Users\vladi\Desktop\repos\VendingMachine-Persistance\obj\Debug\netstandard2.0\VendingMachine-Persistance.AssemblyInfoInputs.cache
+C:\Users\vladi\Desktop\repos\VendingMachine-Persistance\obj\Debug\netstandard2.0\VendingMachine-Persistance.csproj.CoreCompileInputs.cache
+C:\Users\vladi\Desktop\repos\VendingMachine-Persistance\obj\Debug\netstandard2.0\VendingMachine-Persistance.csproj.CopyComplete
+C:\Users\vladi\Desktop\repos\VendingMachine-Persistance\obj\Debug\netstandard2.0\VendingMachine-Persistance.dll
+C:\Users\vladi\Desktop\repos\VendingMachine-Persistance\obj\Debug\netstandard2.0\VendingMachine-Persistance.pdb
+C:\Users\mhssa\OneDrive\Documents\Code\VM Assignment\Vladmir3\VendingMachine-Persistance\bin\Debug\netstandard2.0\VendingMachine-Persistance.deps.json
+C:\Users\mhssa\OneDrive\Documents\Code\VM Assignment\Vladmir3\VendingMachine-Persistance\bin\Debug\netstandard2.0\VendingMachine-Persistance.dll
+C:\Users\mhssa\OneDrive\Documents\Code\VM Assignment\Vladmir3\VendingMachine-Persistance\bin\Debug\netstandard2.0\VendingMachine-Persistance.pdb
+C:\Users\mhssa\OneDrive\Documents\Code\VM Assignment\Vladmir3\VendingMachine-Persistance\bin\Debug\netstandard2.0\VendingMachine-Application.dll
+C:\Users\mhssa\OneDrive\Documents\Code\VM Assignment\Vladmir3\VendingMachine-Persistance\bin\Debug\netstandard2.0\VendingMachine-Domain.dll
+C:\Users\mhssa\OneDrive\Documents\Code\VM Assignment\Vladmir3\VendingMachine-Persistance\bin\Debug\netstandard2.0\VendingMachine-Application.pdb
+C:\Users\mhssa\OneDrive\Documents\Code\VM Assignment\Vladmir3\VendingMachine-Persistance\bin\Debug\netstandard2.0\VendingMachine-Domain.pdb
+C:\Users\mhssa\OneDrive\Documents\Code\VM Assignment\Vladmir3\VendingMachine-Persistance\obj\Debug\netstandard2.0\VendingMachine-Persistance.csprojAssemblyReference.cache
+C:\Users\mhssa\OneDrive\Documents\Code\VM Assignment\Vladmir3\VendingMachine-Persistance\obj\Debug\netstandard2.0\VendingMachine-Persistance.AssemblyInfoInputs.cache
+C:\Users\mhssa\OneDrive\Documents\Code\VM Assignment\Vladmir3\VendingMachine-Persistance\obj\Debug\netstandard2.0\VendingMachine-Persistance.AssemblyInfo.cs
+C:\Users\mhssa\OneDrive\Documents\Code\VM Assignment\Vladmir3\VendingMachine-Persistance\obj\Debug\netstandard2.0\VendingMachine-Persistance.csproj.CoreCompileInputs.cache
+C:\Users\mhssa\OneDrive\Documents\Code\VM Assignment\Vladmir3\VendingMachine-Persistance\obj\Debug\netstandard2.0\VendingMachine-Persistance.csproj.CopyComplete
+C:\Users\mhssa\OneDrive\Documents\Code\VM Assignment\Vladmir3\VendingMachine-Persistance\obj\Debug\netstandard2.0\VendingMachine-Persistance.dll
+C:\Users\mhssa\OneDrive\Documents\Code\VM Assignment\Vladmir3\VendingMachine-Persistance\obj\Debug\netstandard2.0\VendingMachine-Persistance.pdb

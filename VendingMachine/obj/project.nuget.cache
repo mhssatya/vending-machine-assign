@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "oVAMu2zDUC+DjkmElBtgXRY7II4cwRUMFFKgPTF6YGQIm2ozSmOsAsorOG+gkSNX1gkM2+m1lFRK1pgNLcAJAQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mhssa\\OneDrive\\Documents\\Code\\VM Assignment\\Vladmir3\\VendingMachine\\VendingMachine.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mhssa\\.nuget\\packages\\autofac\\5.2.0\\autofac.5.2.0.nupkg.sha512",
+    "C:\\Users\\mhssa\\.nuget\\packages\\csvhelper\\15.0.5\\csvhelper.15.0.5.nupkg.sha512",
+    "C:\\Users\\mhssa\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\mhssa\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.8\\microsoft.extensions.configuration.3.1.8.nupkg.sha512",
+    "C:\\Users\\mhssa\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.8\\microsoft.extensions.configuration.abstractions.3.1.8.nupkg.sha512",
+    "C:\\Users\\mhssa\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.7\\microsoft.extensions.configuration.binder.3.1.7.nupkg.sha512",
+    "C:\\Users\\mhssa\\.nuget\\packages\\microsoft.extensions.configuration.commandline\\3.1.7\\microsoft.extensions.configuration.commandline.3.1.7.nupkg.sha512",
+    "C:\\Users\\mhssa\\.nuget\\packages\\microsoft.extensions.configuration.environmentvariables\\3.1.7\\microsoft.extensions.configuration.environmentvariables.3.1.7.nupkg.sha512",
+    "C:\\Users\\mhssa\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\3.1.7\\microsoft.extensions.configuration.fileextensions.3.1.7.nupkg.sha512",
+    "C:\\Users\\mhssa\\.nuget\\packages\\microsoft.extensions.configuration.json\\3.1.7\\microsoft.extensions.configuration.json.3.1.7.nupkg.sha512",
+    "C:\\Users\\mhssa\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.8\\microsoft.extensions.dependencyinjection.3.1.8.nupkg.sha512",
+    "C:\\Users\\mhssa\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.8\\microsoft.extensions.dependencyinjection.abstractions.3.1.8.nupkg.sha512",
+    "C:\\Users\\mhssa\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\3.1.7\\microsoft.extensions.fileproviders.abstractions.3.1.7.nupkg.sha512",
+    "C:\\Users\\mhssa\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\3.1.7\\microsoft.extensions.fileproviders.physical.3.1.7.nupkg.sha512",
+    "C:\\Users\\mhssa\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\3.1.7\\microsoft.extensions.filesystemglobbing.3.1.7.nupkg.sha512",
+    "C:\\Users\\mhssa\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.8\\microsoft.extensions.primitives.3.1.8.nupkg.sha512",
+    "C:\\Users\\mhssa\\.nuget\\packages\\serilog\\2.10.0\\serilog.2.10.0.nupkg.sha512"
+  ],
+  "logs": []
+}

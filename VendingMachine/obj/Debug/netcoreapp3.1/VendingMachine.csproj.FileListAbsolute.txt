@@ -1,0 +1,104 @@
+C:\Users\vmerce\source\repos\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.exe
+C:\Users\vmerce\source\repos\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.csprojAssemblyReference.cache
+C:\Users\vmerce\source\repos\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.AssemblyInfoInputs.cache
+C:\Users\vmerce\source\repos\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.AssemblyInfo.cs
+C:\Users\vmerce\source\repos\VendingMachine\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\vmerce\source\repos\VendingMachine\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\vmerce\source\repos\VendingMachine\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\vmerce\source\repos\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine-Application.dll
+C:\Users\vmerce\source\repos\VendingMachine\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\vmerce\source\repos\VendingMachine\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\vmerce\source\repos\VendingMachine\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\vmerce\source\repos\VendingMachine\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\vmerce\source\repos\VendingMachine\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\vmerce\source\repos\VendingMachine\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\vmerce\source\repos\VendingMachine\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\vmerce\source\repos\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.deps.json
+C:\Users\vmerce\source\repos\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.runtimeconfig.json
+C:\Users\vmerce\source\repos\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.runtimeconfig.dev.json
+C:\Users\vmerce\source\repos\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.dll
+C:\Users\vmerce\source\repos\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.pdb
+C:\Users\vmerce\source\repos\VendingMachine\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\vmerce\source\repos\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine-Application.pdb
+C:\Users\vmerce\source\repos\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.csproj.CopyComplete
+C:\Users\vmerce\source\repos\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.dll
+C:\Users\vmerce\source\repos\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.pdb
+C:\Users\vmerce\source\repos\VendingMachine\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\vmerce\source\repos\VendingMachine\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\vmerce\source\repos\VendingMachine\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\vladi\Desktop\repos\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.deps.json
+C:\Users\vladi\Desktop\repos\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.runtimeconfig.json
+C:\Users\vladi\Desktop\repos\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.runtimeconfig.dev.json
+C:\Users\vladi\Desktop\repos\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.AssemblyInfo.cs
+C:\Users\vladi\Desktop\repos\VendingMachine\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\vladi\Desktop\repos\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.exe
+C:\Users\vladi\Desktop\repos\VendingMachine\bin\Debug\netcoreapp3.1\VendingList.csv
+C:\Users\vladi\Desktop\repos\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.dll
+C:\Users\vladi\Desktop\repos\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.pdb
+C:\Users\vladi\Desktop\repos\VendingMachine\bin\Debug\netcoreapp3.1\Autofac.dll
+C:\Users\vladi\Desktop\repos\VendingMachine\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\vladi\Desktop\repos\VendingMachine\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\vladi\Desktop\repos\VendingMachine\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\vladi\Desktop\repos\VendingMachine\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\vladi\Desktop\repos\VendingMachine\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\vladi\Desktop\repos\VendingMachine\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\vladi\Desktop\repos\VendingMachine\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\vladi\Desktop\repos\VendingMachine\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\vladi\Desktop\repos\VendingMachine\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\vladi\Desktop\repos\VendingMachine\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\vladi\Desktop\repos\VendingMachine\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\vladi\Desktop\repos\VendingMachine\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\vladi\Desktop\repos\VendingMachine\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\vladi\Desktop\repos\VendingMachine\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\vladi\Desktop\repos\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine-Application.dll
+C:\Users\vladi\Desktop\repos\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine-Domain.dll
+C:\Users\vladi\Desktop\repos\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine-Persistance.dll
+C:\Users\vladi\Desktop\repos\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine-Application.pdb
+C:\Users\vladi\Desktop\repos\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine-Persistance.pdb
+C:\Users\vladi\Desktop\repos\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine-Domain.pdb
+C:\Users\vladi\Desktop\repos\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.csprojAssemblyReference.cache
+C:\Users\vladi\Desktop\repos\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.AssemblyInfoInputs.cache
+C:\Users\vladi\Desktop\repos\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.csproj.CoreCompileInputs.cache
+C:\Users\vladi\Desktop\repos\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.csproj.CopyComplete
+C:\Users\vladi\Desktop\repos\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.dll
+C:\Users\vladi\Desktop\repos\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.pdb
+C:\Users\vladi\Desktop\repos\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.genruntimeconfig.cache
+C:\Users\vladi\Desktop\repos\VendingMachine\bin\Debug\netcoreapp3.1\Serilog.dll
+C:\Users\mhssa\OneDrive\Documents\Code\VM Assignment\Vladmir3\VendingMachine\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\mhssa\OneDrive\Documents\Code\VM Assignment\Vladmir3\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.exe
+C:\Users\mhssa\OneDrive\Documents\Code\VM Assignment\Vladmir3\VendingMachine\bin\Debug\netcoreapp3.1\VendingList.csv
+C:\Users\mhssa\OneDrive\Documents\Code\VM Assignment\Vladmir3\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.deps.json
+C:\Users\mhssa\OneDrive\Documents\Code\VM Assignment\Vladmir3\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.runtimeconfig.json
+C:\Users\mhssa\OneDrive\Documents\Code\VM Assignment\Vladmir3\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.runtimeconfig.dev.json
+C:\Users\mhssa\OneDrive\Documents\Code\VM Assignment\Vladmir3\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.dll
+C:\Users\mhssa\OneDrive\Documents\Code\VM Assignment\Vladmir3\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.pdb
+C:\Users\mhssa\OneDrive\Documents\Code\VM Assignment\Vladmir3\VendingMachine\bin\Debug\netcoreapp3.1\Autofac.dll
+C:\Users\mhssa\OneDrive\Documents\Code\VM Assignment\Vladmir3\VendingMachine\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\mhssa\OneDrive\Documents\Code\VM Assignment\Vladmir3\VendingMachine\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\mhssa\OneDrive\Documents\Code\VM Assignment\Vladmir3\VendingMachine\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\mhssa\OneDrive\Documents\Code\VM Assignment\Vladmir3\VendingMachine\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\mhssa\OneDrive\Documents\Code\VM Assignment\Vladmir3\VendingMachine\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\mhssa\OneDrive\Documents\Code\VM Assignment\Vladmir3\VendingMachine\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\mhssa\OneDrive\Documents\Code\VM Assignment\Vladmir3\VendingMachine\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\mhssa\OneDrive\Documents\Code\VM Assignment\Vladmir3\VendingMachine\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\mhssa\OneDrive\Documents\Code\VM Assignment\Vladmir3\VendingMachine\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mhssa\OneDrive\Documents\Code\VM Assignment\Vladmir3\VendingMachine\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mhssa\OneDrive\Documents\Code\VM Assignment\Vladmir3\VendingMachine\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\mhssa\OneDrive\Documents\Code\VM Assignment\Vladmir3\VendingMachine\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\mhssa\OneDrive\Documents\Code\VM Assignment\Vladmir3\VendingMachine\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\mhssa\OneDrive\Documents\Code\VM Assignment\Vladmir3\VendingMachine\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\mhssa\OneDrive\Documents\Code\VM Assignment\Vladmir3\VendingMachine\bin\Debug\netcoreapp3.1\Serilog.dll
+C:\Users\mhssa\OneDrive\Documents\Code\VM Assignment\Vladmir3\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine-Application.dll
+C:\Users\mhssa\OneDrive\Documents\Code\VM Assignment\Vladmir3\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine-Domain.dll
+C:\Users\mhssa\OneDrive\Documents\Code\VM Assignment\Vladmir3\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine-Persistance.dll
+C:\Users\mhssa\OneDrive\Documents\Code\VM Assignment\Vladmir3\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine-Application.pdb
+C:\Users\mhssa\OneDrive\Documents\Code\VM Assignment\Vladmir3\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine-Persistance.pdb
+C:\Users\mhssa\OneDrive\Documents\Code\VM Assignment\Vladmir3\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine-Domain.pdb
+C:\Users\mhssa\OneDrive\Documents\Code\VM Assignment\Vladmir3\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.csprojAssemblyReference.cache
+C:\Users\mhssa\OneDrive\Documents\Code\VM Assignment\Vladmir3\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.AssemblyInfoInputs.cache
+C:\Users\mhssa\OneDrive\Documents\Code\VM Assignment\Vladmir3\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.AssemblyInfo.cs
+C:\Users\mhssa\OneDrive\Documents\Code\VM Assignment\Vladmir3\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.csproj.CoreCompileInputs.cache
+C:\Users\mhssa\OneDrive\Documents\Code\VM Assignment\Vladmir3\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.csproj.CopyComplete
+C:\Users\mhssa\OneDrive\Documents\Code\VM Assignment\Vladmir3\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.dll
+C:\Users\mhssa\OneDrive\Documents\Code\VM Assignment\Vladmir3\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.pdb
+C:\Users\mhssa\OneDrive\Documents\Code\VM Assignment\Vladmir3\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.genruntimeconfig.cache

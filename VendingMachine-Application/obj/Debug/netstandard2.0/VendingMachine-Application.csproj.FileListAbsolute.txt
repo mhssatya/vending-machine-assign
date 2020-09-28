@@ -1,0 +1,31 @@
+C:\Users\vmerce\source\repos\VendingMachine-Application\bin\Debug\netstandard2.0\VendingMachine-Application.deps.json
+C:\Users\vmerce\source\repos\VendingMachine-Application\bin\Debug\netstandard2.0\VendingMachine-Application.dll
+C:\Users\vmerce\source\repos\VendingMachine-Application\bin\Debug\netstandard2.0\VendingMachine-Application.pdb
+C:\Users\vmerce\source\repos\VendingMachine-Application\obj\Debug\netstandard2.0\VendingMachine-Application.AssemblyInfoInputs.cache
+C:\Users\vmerce\source\repos\VendingMachine-Application\obj\Debug\netstandard2.0\VendingMachine-Application.AssemblyInfo.cs
+C:\Users\vmerce\source\repos\VendingMachine-Application\obj\Debug\netstandard2.0\VendingMachine-Application.dll
+C:\Users\vmerce\source\repos\VendingMachine-Application\obj\Debug\netstandard2.0\VendingMachine-Application.pdb
+C:\Users\vladi\Desktop\repos\VendingMachine-Application\bin\Debug\netstandard2.0\VendingMachine-Application.deps.json
+C:\Users\vladi\Desktop\repos\VendingMachine-Application\obj\Debug\netstandard2.0\VendingMachine-Application.AssemblyInfo.cs
+C:\Users\vladi\Desktop\repos\VendingMachine-Application\bin\Debug\netstandard2.0\VendingMachine-Application.dll
+C:\Users\vladi\Desktop\repos\VendingMachine-Application\bin\Debug\netstandard2.0\VendingMachine-Application.pdb
+C:\Users\vladi\Desktop\repos\VendingMachine-Application\bin\Debug\netstandard2.0\VendingMachine-Domain.dll
+C:\Users\vladi\Desktop\repos\VendingMachine-Application\bin\Debug\netstandard2.0\VendingMachine-Domain.pdb
+C:\Users\vladi\Desktop\repos\VendingMachine-Application\obj\Debug\netstandard2.0\VendingMachine-Application.csprojAssemblyReference.cache
+C:\Users\vladi\Desktop\repos\VendingMachine-Application\obj\Debug\netstandard2.0\VendingMachine-Application.AssemblyInfoInputs.cache
+C:\Users\vladi\Desktop\repos\VendingMachine-Application\obj\Debug\netstandard2.0\VendingMachine-Application.csproj.CoreCompileInputs.cache
+C:\Users\vladi\Desktop\repos\VendingMachine-Application\obj\Debug\netstandard2.0\VendingMachine-Application.csproj.CopyComplete
+C:\Users\vladi\Desktop\repos\VendingMachine-Application\obj\Debug\netstandard2.0\VendingMachine-Application.dll
+C:\Users\vladi\Desktop\repos\VendingMachine-Application\obj\Debug\netstandard2.0\VendingMachine-Application.pdb
+C:\Users\mhssa\OneDrive\Documents\Code\VM Assignment\Vladmir3\VendingMachine-Application\bin\Debug\netstandard2.0\VendingMachine-Application.deps.json
+C:\Users\mhssa\OneDrive\Documents\Code\VM Assignment\Vladmir3\VendingMachine-Application\bin\Debug\netstandard2.0\VendingMachine-Application.dll
+C:\Users\mhssa\OneDrive\Documents\Code\VM Assignment\Vladmir3\VendingMachine-Application\bin\Debug\netstandard2.0\VendingMachine-Application.pdb
+C:\Users\mhssa\OneDrive\Documents\Code\VM Assignment\Vladmir3\VendingMachine-Application\bin\Debug\netstandard2.0\VendingMachine-Domain.dll
+C:\Users\mhssa\OneDrive\Documents\Code\VM Assignment\Vladmir3\VendingMachine-Application\bin\Debug\netstandard2.0\VendingMachine-Domain.pdb
+C:\Users\mhssa\OneDrive\Documents\Code\VM Assignment\Vladmir3\VendingMachine-Application\obj\Debug\netstandard2.0\VendingMachine-Application.csprojAssemblyReference.cache
+C:\Users\mhssa\OneDrive\Documents\Code\VM Assignment\Vladmir3\VendingMachine-Application\obj\Debug\netstandard2.0\VendingMachine-Application.AssemblyInfoInputs.cache
+C:\Users\mhssa\OneDrive\Documents\Code\VM Assignment\Vladmir3\VendingMachine-Application\obj\Debug\netstandard2.0\VendingMachine-Application.AssemblyInfo.cs
+C:\Users\mhssa\OneDrive\Documents\Code\VM Assignment\Vladmir3\VendingMachine-Application\obj\Debug\netstandard2.0\VendingMachine-Application.csproj.CoreCompileInputs.cache
+C:\Users\mhssa\OneDrive\Documents\Code\VM Assignment\Vladmir3\VendingMachine-Application\obj\Debug\netstandard2.0\VendingMachine-Application.csproj.CopyComplete
+C:\Users\mhssa\OneDrive\Documents\Code\VM Assignment\Vladmir3\VendingMachine-Application\obj\Debug\netstandard2.0\VendingMachine-Application.dll
+C:\Users\mhssa\OneDrive\Documents\Code\VM Assignment\Vladmir3\VendingMachine-Application\obj\Debug\netstandard2.0\VendingMachine-Application.pdb
